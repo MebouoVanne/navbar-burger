@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/navbar-burger/static/css/main.ea15ac73.css",
+    "main.js": "/navbar-burger/static/js/main.e1077632.js",
+    "index.html": "/navbar-burger/index.html",
+    "main.ea15ac73.css.map": "/navbar-burger/static/css/main.ea15ac73.css.map",
+    "main.e1077632.js.map": "/navbar-burger/static/js/main.e1077632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea15ac73.css",
+    "static/js/main.e1077632.js"
+  ]
+}
